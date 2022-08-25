@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kalyanic93
 - 👀 I’m a PhD student in economics...
-- 🌱 ...getting started on Github!
+- 🌱 ...just getting started on Github!
 - 📫 Reach me on Twitter @kalyanic
 
 <!---
